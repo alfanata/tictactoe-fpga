@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name tictactoe)(type KiCad)(uri "$(KIPRJMOD)/tictactoe.pretty")(options "")(descr ""))
+)
